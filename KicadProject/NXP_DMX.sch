@@ -1524,4 +1524,6 @@ Connection ~ 10300 5300
 Wire Wire Line
 	10200 5500 10350 5500
 Connection ~ 10350 5500
+Text Notes 6700 7750 0    60   ~ 0
+Isolated NXP AN11154 by EmbeddedEE
 $EndSCHEMATC
